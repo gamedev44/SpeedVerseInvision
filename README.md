@@ -1,5 +1,5 @@
 # Speedverse
-(/SpeedVerse.png) 
+(SpeedVerse.png) 
 
 **Speedverse** is where high-speed racing meets the thrill of the unknown. With a universe of racing experiences, from Formula circuits to rocket car mayhem, and now with the integration of static mesh replacement System for Vehicle Skeleton models, Speedverse promises both realism and innovation in racing.
 
