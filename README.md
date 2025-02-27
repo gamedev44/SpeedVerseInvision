@@ -1,8 +1,15 @@
 # Speedverse
 ![SpeedVerse](SpeedVerse.png)
 
+**Speedverse** is where high-speed racing meets the thrill of the unknown. With a universe of racing experiences, from Formula circuits to rocket car mayhem, and now with the integration of a Static Mesh Replacement System for Vehicle Skeleton models, Speedverse promises both realism and innovation in racing.
 
-**Speedverse** is where high-speed racing meets the thrill of the unknown. With a universe of racing experiences, from Formula circuits to rocket car mayhem, and now with the integration of static mesh replacement System for Vehicle Skeleton models, Speedverse promises both realism and innovation in racing.
+## 📌 Index  
+- [Overview](#overview)  
+- [Racing Modes](#racing-modes)  
+- [Locations](#locations)  
+- [Upcoming Features](#upcoming-features)  
+- [Development Notes](#development-notes)  
+- [Modding SpeedVerse](#modding-speedverse-renovated-sdk-framework)  
 
 ## Overview
 
@@ -48,9 +55,34 @@ Speedverse reimagines racing with:
 - **Static Mesh Utilization:** A key feature for vehicle models, enhancing visual quality while optimizing performance by eliminating the need for complex skeletal animations.
 - **Seamless Transitions:** Achieved through level sublevel streaming and widget integration, ensuring players can move from one racing scenario to another without breaking immersion.
 
+## Modding SpeedVerse: Renovated SDK Framework  
+
+SpeedVerse supports modding through its Renovated SDK Framework, allowing developers to extend and customize the game.  
+
+### 🔧 Getting Started  
+1. **Download the SDK** – Clone the repository:  
+   ```sh
+   git clone https://github.com/gamedev44/SpeedVerseInvision.git
+   ```  
+2. **Set Up Your Environment** – Ensure you have the necessary tools installed:  
+   - Blender (or equivalent)  
+   - Unreal Engine 5.3.2  
+   - Substance Painter (or equivalent)  
+   - TerraSculptor  
+3. **Follow the Tutorials** – Check out the official modding tutorial playlist:  
+   [![Modding Tutorial Playlist](https://i.pinimg.com/474x/38/4e/05/384e05942428b8598fb9ec507fb75efb.jpg)](https://www.youtube.com/playlist?list=PL85wXcWAp0HUHSkywXlGlQfz9pl-zypzS)  
+
+### 📁 Modding Features  
+- 🔹 Custom assets, vehicles, maps, and game modes  
+- 🔹 Full Blueprint access for scripting and extending functionality  
+- 🔹 Full support for community-created plugins (as long as they are free to use)  
+
+### 🚀 Join the Community  
+Get involved in modding discussions, share your work, and collaborate with others!
+[Join our Discord](https://discord.gg/yQtTSc8f84)
+
 
 <!--
-
 ## Community Engagement
 
 - **Feedback Loop:** Your input directly influences game development.
@@ -67,5 +99,4 @@ Speedverse reimagines racing with:
   
 
 Join the Speedverse community and experience racing in ways you've never imagined. Buckle up for a journey through time, space, and speed!
-
 -->
