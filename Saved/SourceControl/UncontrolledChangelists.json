@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/herre/OneDrive/Documents/Unreal Projects/SpeedVerseSDK/SpeedVerseInvision/Content/SpeedVerse/Maps/lvl_SnowAndIce.umap",
+				"C:/Users/herre/OneDrive/Documents/Unreal Projects/SpeedVerseSDK/SpeedVerseInvision/Content/SpeedVerse/Blueprints/Physics/BPPA_Ice.uasset",
+				"C:/Users/herre/OneDrive/Documents/Unreal Projects/SpeedVerseSDK/SpeedVerseInvision/Content/SpeedVerse/Blueprints/CharacterLogic/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/herre/OneDrive/Documents/Unreal Projects/SpeedVerseSDK/SpeedVerseInvision/Content/SoStylized/Demo/Pawn/GM_ThirdPerson.uasset"
+			]
+		}
+	]
+}
