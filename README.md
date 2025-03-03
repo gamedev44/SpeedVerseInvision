@@ -2,7 +2,7 @@
 # Speedverse
 ![SpeedVerse](SpeedVerse.png)
 
-**Speedverse** is where high-speed racing meets the thrill of the unknown. With a universe of racing experiences, from Formula circuits to rocket car mayhem, and now with the integration of a Static Mesh Replacement System for Vehicle Skeleton models, Speedverse promises both realism and innovation in racing.
+**Speedverse** is where high-speed racing meets the thrill of the unknown. With a universe of racing experiences, from Formula circuits to offroad rageing, and now with the integration of a Static Mesh Replacement System for Vehicle Skeleton models, Speedverse promises both realism and innovation in racing.
 
 ## 📌 Index  
 - [Overview](#overview)  
@@ -28,7 +28,6 @@ Speedverse reimagines racing with:
 - **Base Tracks:** Compete on iconic circuits like Monza, Brazil, and more.
 
 ### Special Events
-- **Rocket Cars:** High-speed, gravity-defying races.
 - **Portal Jumps:** Utilize level sublevel streaming for seamless transitions between tracks, even mid-air.
 
 ### Custom and Thematic Challenges
