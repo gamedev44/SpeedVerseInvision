@@ -28,7 +28,6 @@ Speedverse reimagines racing with:
 - **Base Tracks:** Compete on iconic circuits like Monza, Brazil, and more.
 
 ### Special Events
-- **Rocket Cars:** High-speed, gravity-defying races.
 - **Portal Jumps:** Utilize level sublevel streaming for seamless transitions between tracks, even mid-air.
 
 ### Custom and Thematic Challenges
