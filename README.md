@@ -24,6 +24,7 @@ Speedverse reimagines racing with:
 ## Racing Modes
 
 ### Traditional Simcade
+- **XRS:** All new Onroad/Offroad Racing Mode being developed.
 - **Formula Series:** The classic racing experience with precision handling.
 - **Base Tracks:** Compete on iconic circuits like Monza, Brazil, and more.
 
