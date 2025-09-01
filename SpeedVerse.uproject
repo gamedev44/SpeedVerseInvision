@@ -31,12 +31,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "TextureFormatOodle",
-			"Enabled": false
-		},
-		{
-			"Name": "OodleNetwork",
-			"Enabled": false
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }
